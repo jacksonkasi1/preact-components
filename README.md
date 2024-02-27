@@ -9,6 +9,6 @@ Documentation can be found on [tailframes.com](https://tailframes.com/getting-st
 
 ---
 
-## Note:
+## Note: ⚠️
 
 The conversion to Preact is still in progress. I will gradually recreate all React components within the Preact framework.
